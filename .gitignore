@@ -1,0 +1,4 @@
+# Ignoring system+env dependent files
+.ruby-gemset
+.ruby-version
+.idea
